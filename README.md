@@ -37,7 +37,7 @@
 
 ## Licença
 
-Este projeto é licenciado sob [CC0 1.0 Universal]. Consulte o arquivo [LICENSE](https://github.com/SilvaneiMartins/carteira-apple-wallet-animation/blob/master/LICENSE) para obter detalhes.
+Este projeto é licenciado sob [CC0 1.0 Universal]. Consulte o arquivo [LICENSE](https://github.com/SilvaneiMartins/desafio-python-data-analytics-power-bi/blob/master/LICENSE) para obter detalhes.
 
 ## Informações do desenvolvedor
 
